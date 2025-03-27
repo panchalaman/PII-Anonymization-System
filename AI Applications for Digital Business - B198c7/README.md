@@ -13,7 +13,7 @@ This project provides tools to detect and anonymize personally identifiable info
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/pii-anonymization.git
+git clone https://github.com/panchalaman/pii-anonymization.git
 cd pii-anonymization
 ```
 
