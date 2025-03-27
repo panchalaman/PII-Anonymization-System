@@ -97,6 +97,7 @@ This will start a web interface that you can access in your browser.
 ## Google Colab
 
 You can also run this project in Google Colab. See the provided notebook for a step-by-step walkthrough.
+Colab Notebook: https://github.com/panchalaman/PII-Anonymization-System/blob/ae6a45bc0d29dcede2e7b59c817ec31e6f23aab0/AI%20Applications%20for%20Digital%20Business%20-%20B198c7/PII%20Anonymization%20Notebook.ipynb
 
 ## Anonymization Styles
 
